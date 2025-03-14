@@ -1,7 +1,7 @@
 {
     "name": "Mi Primera PWA",
     "short_name": "PWA",
-    "start_url": "/",
+    "start_url": "/Prueba1-de-PWA/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
